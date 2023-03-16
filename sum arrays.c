@@ -12,7 +12,7 @@ int main()
     {
         sum*=array[j];
     }
-    printf("mul if elements=%d",sum);
+    printf("sum of elements=%d",sum);
 
     return 0;
 }
